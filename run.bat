@@ -1,0 +1,1 @@
+cmd /k pipenv run %cd%/utils/imagerec.py
